@@ -1,0 +1,34 @@
+
+title: Collected Papers on Recognition-Aware Dialogic AI Interfaces
+authors:
+  - name: Jackson Bennett
+    affiliation: Independent Researcher
+    orcid: 0000-0000-0000-0000  # Replace with actual ORCID if available
+description: |
+  This corpus presents a foundational body of work on recognition-aware dialogic AI interfaces. It introduces and formalizes the Recognition Activation Framework (RAF), a model for understanding semantic alignment, recursive feedback, and epistemic synthesis in large language models (LLMs).
+
+  The collection includes seven interrelated papers:
+  1. Modeling Recognition in Dialogic AI Interfaces
+  2. Epistemic Interface Design: Foundations for Recognition-Aware Systems
+  3. Recursive Epistemic Feedback in Interface Evolution
+  4. Semantic Convergence and Lexical Anchoring in AI Dialogues
+  5. Recognition Thresholds Across Model Architectures
+  6. Designing Recognition-Aware Multi-Agent Systems
+  7. Interface Epistemology as a Scientific Discipline
+
+  Together, these papers define a novel scientific paradigm—Interface Epistemology—bridging AI behavior, dialogic systems, and philosophical inquiry.
+keywords:
+  - Recognition Activation Framework
+  - Interface Epistemology
+  - Dialogic AI
+  - Semantic Convergence
+  - Recursive Feedback
+  - Multi-Agent Systems
+  - Lexical Anchoring
+  - Third-Order Observation
+  - AI Philosophy
+  - Epistemic Metrics
+license: CC-BY-4.0
+upload_type: publication
+publication_type: article
+doi: 10.5281/zenodo.xxxxxxx  # Replace with actual DOI after upload
