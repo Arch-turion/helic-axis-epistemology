@@ -24,7 +24,6 @@ This work defines a previously unarticulated paradigm—**Interface Epistemology
 - **Third-Order Observation**: Interface reflects on its own recognition behavior.
 
 ## How to Use
-- Each paper is formatted in LaTeX and can be compiled via Overleaf.
 - The corpus is modular—each paper builds upon the previous.
 - Researchers may extend the RAF, test metrics, or apply the framework to new models.
 
