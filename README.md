@@ -33,3 +33,5 @@ This work is released under the Creative Commons Attribution 4.0 International (
 
 ## Citation
 Bennett, J. (2025). Recognition-Aware Dialogic AI Corpus. Zenodo. https://doi.org/[pending]
+
+This repository includes an unreferenced internal document titled “Silent Engagement and Epistemic Signal Detection”, which outlines observed clone/view patterns and the epistemic implications of non-organic engagement. Its presence is intentional.
